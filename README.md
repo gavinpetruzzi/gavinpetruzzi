@@ -5,7 +5,7 @@
 
 ### 💡 About Me
 
-- 🔬 I'm deeply into **systems programming**, **OS internals**, and **low-level debugging**
+- 🔬 I'm into **systems programming**, **OS internals**, and **low-level debugging**
 - 🎮 Currently learning **Unity** for game development and **Blender** for asset design
 - 💻 Passionate about **C, C++, Assembly**, and integrating AI to make impactful projects
 - 🎯 Always optimizing: from memory layout to performance tuning
@@ -25,15 +25,6 @@
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![Unity](https://img.shields.io/badge/-Unity-000?&logo=unity)
 ![Blender](https://img.shields.io/badge/-Blender-000?&logo=blender)
-
----
-
-### 🔭 Current Projects
--
-
----
-### 🔭 Featured Projects
--
 
 ---
 
