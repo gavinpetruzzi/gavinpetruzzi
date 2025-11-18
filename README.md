@@ -7,7 +7,7 @@
 
 - 🔬 I'm into **systems programming**, **OS internals**, and **low-level debugging**
 - 🎮 Currently learning **Unity** for game development and **Blender** for asset design
-- 💻 Passionate about **C, C++, Assembly**, and integrating AI to make impactful projects
+- 💻 Passionate about **C, C++, Assembly, Python**, and integrating AI to make impactful projects
 - 🎯 Always optimizing: from memory layout to performance tuning
 
 ---
